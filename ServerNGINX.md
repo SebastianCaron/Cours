@@ -10,7 +10,7 @@ Temps de lecture et maitrise : 15mins
 * [Arreter le serveur](#arreter-le-serveur)
 * [Diffuser les pages d'un autre répertoire](#diffuser-les-pages-dun-autre-répertoire)
 * [Changer le port TCP](#changer-le-port-tcp)
-* [Se connecter à un copain](##se-connecter-à-un-serveur)
+* [Se connecter à un copain](#se-connecter-à-un-serveur)
 
 # Consignes :
 
