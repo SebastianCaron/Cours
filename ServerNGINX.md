@@ -36,7 +36,7 @@ Attaquons les consignes point par point.
 # Démarrer le Serveur :
 Lancez nginx.exe ( ou équivalent sur Mac )
 <center>
-<img src="https://sebastiancaron.fr/images/image7.png">
+<img src="https://sebastiancaron.fr/images/image7.png" width="600">
 </center>
 <br>
 Sous Windows 11 : une Fenêtre va s’ouvrir. 
@@ -45,7 +45,7 @@ Sous Windows 10 : “Rien ne se passe”, le processus est visible depuis le ges
 <br>
 
 <center>
-<img src="https://sebastiancaron.fr/images/image8.png">
+<img src="https://sebastiancaron.fr/images/image8.png" width="600">
 </center>
 
 > Vérifiez que le serveur fonctionne en tapant localhost dans l’url de votre navigateur préféré. Une page devrait apparaître… Si rien ne se passe ou que vous avez un message d'erreur, le serveur ne s’est pas lancé.
@@ -54,11 +54,11 @@ Sous Windows 10 : “Rien ne se passe”, le processus est visible depuis le ges
 
 Fonctionne : 
 <center>
-<img src="https://sebastiancaron.fr/images/image4.png">
+<img src="https://sebastiancaron.fr/images/image4.png" width="500">
 </center>
 Ne fonctionne pas :
 <center>
-<img src="https://sebastiancaron.fr/images/image1.png">
+<img src="https://sebastiancaron.fr/images/image1.png" width="500">
 </center>
 
 # Arreter le Serveur :
@@ -73,13 +73,13 @@ Ouvrez un invite de commande et déplacez vous dans le dossier où se trouve ngi
 
 > Rappel : Pour vous déplacer dans un dossier : "cd" + répertoire
 <center>
-<img src="https://sebastiancaron.fr/images/image12.png">
+<img src="https://sebastiancaron.fr/images/image12.png" width="400">
 </center>
 
 Pour fermer le serveur, tapez nginx -s quit
 ## Exemple
 <center>
-<img src="https://sebastiancaron.fr/images/image6.png">
+<img src="https://sebastiancaron.fr/images/image6.png" width="400">
 </center>
 
 Pour vérifier que le serveur est fermé : tapez localhost et vérifiez que vous avez un message d'erreurs (voir la partie exemple [Démarrez un serveur](#exemple))
@@ -87,7 +87,7 @@ Pour vérifier que le serveur est fermé : tapez localhost et vérifiez que vous
 # Diffuser les pages d'un autre répertoire :
 Allez dans le dossier conf puis ouvrez le fichier nginx.conf.
 <center>
-<img src="https://sebastiancaron.fr/images/image14.png">
+<img src="https://sebastiancaron.fr/images/image14.png" width="400">
 </center>
 
 Mettez le chemin relatif de votre dossier où se trouve la page a diffuser par rapport à l'endroit où se trouve nginx.exe à coté de root.
@@ -109,10 +109,10 @@ Chemin relatif :<br>
 
 **EXEMPLE DE FICHIER NGINX.CONF :**
 <center>
-<img src="https://sebastiancaron.fr/images/image10.png">
+<img src="https://sebastiancaron.fr/images/image10.png" width="400">
 </center>
 <center>
-<img src="https://sebastiancaron.fr/images/image5.png">
+<img src="https://sebastiancaron.fr/images/image5.png" width="400">
 </center>
 
 > Rappel : N'oubliez pas de restart le serveur à chaque modificaton
@@ -124,7 +124,7 @@ Exemple:  **62120**
 
 Mettez le port à côté de listen.
 <center>
-<img src="https://sebastiancaron.fr/images/image11.png">
+<img src="https://sebastiancaron.fr/images/image11.png" width="400">
 </center>
 
 Voilà c’est fait…
@@ -132,7 +132,7 @@ Voilà c’est fait…
 
 ## Exemple :
 <center>
-<img src="https://sebastiancaron.fr/images/image13.png">
+<img src="https://sebastiancaron.fr/images/image13.png" width="400">
 </center>
 
 # Se connecter à un serveur
