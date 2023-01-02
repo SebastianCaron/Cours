@@ -7,7 +7,7 @@ Temps de lecture et maitrise : 15mins
 
 * [Consignes](#consignes)
 * [Demarrer le serveur](#démarrer-le-serveur-)
-* [Arreter le serveur](#arreter-le-serveur)
+* [Arreter le serveur](#arreter-le-serveur-)
 * [Diffuser les pages d'un autre répertoire](#se-connecter-à-un-serveur)
 * [Changer le port TCP](#changer-le-port-tcp)
 * [Se connecter à un copain](#se-connecter-à-un-serveur)
